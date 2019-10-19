@@ -1,57 +1,63 @@
 # Règles de vie en colocation :house:
 
-## Les lieux communs
+### Définition de "Propreté acceptable"
 
-Le ménage se fait par tous les membres de la colocation toutes les 2 semaines
+Les éléments du listing suivant ne devraient pas traîner plus de 3 jours d'affilée:
 
-KISS : Keep It Simply Spotless :kiss: :sparkles:
+|Objet|:white_check_mark:|
+|:---:|:---:|
+|Vaisselle|Armoire/Egouttoir|
+[Sèche-linge|Contre le mur devant la salle de bains|
+|Fer à repasser|Au-dessus de la machine à laver|
+|Nourriture consommée/périmée (ex:Oranges)|Poubelle|
+|Boite à produits de la machine à laver|Posé sur la machine|
 
-On garde les espaces communs propres,
-ça veut dire que ce qui suit de reste pas plus de qqls jours sans être rangé :
+Les éléments du listing suivant ne sont pas bienvenus et doivent faire l'objet d'une surveillance continue:
 
-* La vaisselle dans l'évier
-* La vaisselle sur l'égoutoire
-* Le ligne sur le sèche linge
-* Le fer à repassser
+|:x:|
+|:---:|
+|Marcher avec des chaussures dans l'appartement|
+|Lumière dans une salle inutilisée|
+|Eau dans la salle de bains (murs de la douche, joints entre la baignoire et le mur, évier)|
+|Cheveux dans la salle de bains (sol, évier)|
+|Elements ayant touché le sol (chaussettes, sac à dos), sur la table ou le sofa|
+|Habits sur le sofa|
+|Ongles sur le sol|
 
-:nauseated_face:
-On jette la nourriture est consommée ou jetée avant de pourrir.
-On previent les membres de la colocation quand on jette des aliments périmés.
+De plus, une routine de nettoyage est à faire tous les 15 jours:
+* Sols
+** Aspirateur (sol, tapis et pieds de mur)
+**  Serpillère
+* Cuisine
+** Mur
+** Plaques
+** Vaisselle
+** Lavabo
+** Poubelle
+* Salle de bains
+** Baignoire
+** Lavabo
+** Toilettes
+** Poubelle
+** Papier toilette
+* Outils de nettoyage
+** Têtes d'aspirateur
 
-## La salle de bain
+### Vie commune
 
-:timer_clock: :shower:
-En heure de pointe le matin, la salle de bain n'est pas bloquée plus de 15 minutes par personnes afin de que tout le monde puisse l'utiliser   
+La communication est importante. Une feuille épinglée au frigo sert à notifier/identifier les motifs de surprise, les célébrations, les absences de plus d'une demi-journée le plus rapidement possible. Lorsqu'un événement se déroule dans la salle commune, il est ouvert aux membres de la colocation.
 
-:sleeping: :shower: :sound:
-On ne prend plus de douche si les conditions suivantes sont avérées :
-* le bruit de la douche est succeptible de perturber le sommeil d'un membre de la colocation
-* il est minuit passé
+Une décence minimale est également de mise:
+* :sleeping: Le sommeil des résidents devrait être aussi paisible que possible
+* Le radiateur/sèche-serviette devrait être aussi bien partagé que possible 
 
-:haircut: :bathtub:
-On veille à ramasser les cheveux qui trainent dans la salle de bain (au sol comme dans le lavabo) pour les jetter (dans les toilettes par exemple).
+Il est également important de trouver un moyen de ne pas se bloquer pour la salle de bains le matin.
 
-On partage le radiateur / sèche serviette avec tous les membres de la colocation.
-
-## Les chambres à coucher
-
-:bed:
-On prend soin du parquet : un sommier est nécessaire pour éviter d'endommager le parquet.
-
-## La vie en communauté
-
-:recycle:
-On remplace tout ce qu'on consomme :
-* Le dentifrice
-* Le shampoing
-* Le PQ
-* Les :beer:
-* Les :bulb:
-* Les sacs poubelles
-:moneybag: les frais sont notés et partagés entre les membres de la colocation.
-
-On partage un repas entre les membres de la colocation régulièrement :pizza: :beer:
-
-:man-with-bunny-ears-partying: Sauf cas exceptionnel, les invités sont les bienvenues.
-Par principe, prevenez les autres membres de la colocation.
-Toutes soirées à l'appartement est ouverte aux membres de la colocation.
+Les ressources communes doivent être renouvelées :recycle: _avant_ expiration. Les achats :moneybag: doivent être reportés sur Splitwise pour partager les frais:
+* Dentifrice
+* Shampoing
+* Papier toilettes
+* Essuie-tout
+* Bières :beer:
+* Ampoules :bulb:
+* Sacs poubelles
