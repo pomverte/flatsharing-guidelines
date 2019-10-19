@@ -38,7 +38,7 @@ On partage le radiateur / sèche serviette avec tous les membres de la colocatio
 :bed:
 On prend soin du parquet : un sommier est nécessaire pour éviter d'endommager le parquet.
 
-## La vie communauté
+## La vie en communauté
 
 :recycle:
 On remplace tout ce qu'on consomme :
