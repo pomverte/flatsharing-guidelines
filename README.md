@@ -1,4 +1,4 @@
-# Règle de vie en colocation
+# Règles de vie en colocation :house:
 
 Le ménage se fait par tous les membres de la colocation toutes les 2 semaines
 
@@ -30,3 +30,10 @@ On partage le radiateur / sèche serviette avec tous les membres de la colocatio
 On prend soin du parquet : un sommier est nécessaire pour éviter d'endommager le parquet.
 
 :recycle:
+On remplace tout ce qu'on consomme :
+* Le dentifrice
+* Le shampoing
+* Le PQ
+* Les :beer:
+* Les :bulb:
+* Les sacs poubelles
