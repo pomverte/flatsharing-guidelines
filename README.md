@@ -52,6 +52,6 @@ On remplace tout ce qu'on consomme :
 
 On partage un repas entre les membres de la colocation régulièrement :pizza: :beer:
 
-:man-with-bunny-ears-partying: Sauf cas exceptionnel, les invités sont les bienvenues.
+:hugging_face: Sauf cas exceptionnel, les invités sont les bienvenues.
 Par principe, prevenez les autres membres de la colocation.
 Toutes soirées à l'appartement est ouverte aux membres de la colocation.
