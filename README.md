@@ -37,3 +37,5 @@ On remplace tout ce qu'on consomme :
 * Les :beer:
 * Les :bulb:
 * Les sacs poubelles
+
+On partage un repas entre les membres de la colocation régulièrement :pizza: :beer:
