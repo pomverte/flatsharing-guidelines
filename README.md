@@ -39,7 +39,7 @@ afin de que tout le monde puisse l'utiliser
 * il est minuit passé
 
 :haircut: :bathtub:
-Les cheveux qui trainent dans la salle de bain (au sol comme dans le lavabo) doivent être jettés (dans les toilettes :toilet: ou à la poubelle).
+Les cheveux qui trainent dans la salle de bain (au sol comme dans le lavabo) doivent être jetés (dans les toilettes :toilet: ou à la poubelle).
 
 Le radiateur / sèche serviette dans la salle de bain est partagé entre tous les membres de la colocation.
 
