@@ -2,7 +2,8 @@
 
 ## Les lieux communs
 
-Le ménage se fait par tous les occupants des lieux toutes les 2 semaines
+Le ménage se fait par tous les occupants des lieux toutes les 2 semaines.
+Passer de l'aspirateur (sol, tapis et pieds de mur) et la serpillère dans tous les pièces.
 
 KISS : Keep It Simply Spotless :kiss: :sparkles:
 
@@ -39,7 +40,7 @@ afin de que tout le monde puisse l'utiliser
 * il est minuit passé
 
 :haircut: :bathtubs:
-Les cheveux qui trainent dans la salle de bain (au sol comme dans le lavabo) doivent être jetés (dans les toilettes :toilet: ou à la poubelle).
+Les cheveux qui trainent dans la salle de bain (au sol comme dans le lavabo) doivent être jetés à la poubelle.
 
 Le radiateur / sèche serviette dans la salle de bain est partagé entre tous les occupants des lieux.
 
@@ -74,6 +75,6 @@ La cigarette (ou autres) se fume à l'extérieur de l'appartement (sur les balco
 
 :kissing_closed_eyes:
 Les invités sont les bienvenus (sauf cas exceptionnel).
-Toute soirée à l'appartement est ouverte aux occupants des lieux.
+Les espace communs sont ouverts aux occupants des lieux.
 :sound: Par principe, prevenez les autres occupants des lieux
 et le voisinnage selon le nombre d'invités et l'heure de fin de la soirée.
