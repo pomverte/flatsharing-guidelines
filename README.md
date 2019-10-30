@@ -10,10 +10,10 @@ Les espaces communs sont tenus d'être gardés propres :pray:
 
 :shoe: Les chaussures sont retirées une fois dans l'appartement.
 
-Les points suivants ne doivent pas rester pas plus de qqls jours sans être rangé :
+Les points suivants ne doivent pas rester pas plus de qqls jours sans être rangés :
 
 * La vaisselle dans l'évier
-* La vaisselle sur l'égoutoire
+* La vaisselle sur l'égouttoir
 * Le ligne sur le sèche linge
 * Le fer à repassser
 * Le canapé
@@ -22,7 +22,7 @@ Les points suivants ne doivent pas rester pas plus de qqls jours sans être rang
 La nourriture qui est périmée ou qui pourrie dans le frigo doit être jetée à la poubelle.
 Les membres de la colocation doivent être prévenus en cas de nourriture jetée.
 
-:bulb: les lumières sont éteintes si personne n'en n'a l'utilité.
+:bulb: les lumières sont éteintes si personne n'en a l'utilité.
 
 La poubelle se vide / change quand elle est pleine :pouch: :recycle:
 
@@ -34,7 +34,7 @@ la salle de bain n'est pas bloquée plus de 15 minutes par personnes
 afin de que tout le monde puisse l'utiliser   
 
 :sleeping: :shower: :sound:
-Les douches / bains ne peuvent pas se tenir si les conditions suivantes sont avérées :
+Évitez de prendre des douches / bains si les conditions suivantes sont avérées :
 * le bruit de la douche est succeptible de perturber le sommeil d'un membre de la colocation
 * il est minuit passé
 
