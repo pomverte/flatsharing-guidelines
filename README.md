@@ -44,7 +44,7 @@ Les cheveux qui trainent dans la salle de bain (au sol comme dans le lavabo) doi
 
 Le radiateur / sèche serviette dans la salle de bain est partagé entre tous les occupants des lieux.
 
-La brosse à toilette est une baguette magique qui doit être utilisée pour enlever les traces de chocolat au fond de la cuvette :toilet::poop::sparkless:
+La brosse à toilette est une baguette magique qui doit être utilisée pour enlever les traces de chocolat au fond de la cuvette :toilet::poop::sparkles:
 
 ## Les chambres à coucher
 
