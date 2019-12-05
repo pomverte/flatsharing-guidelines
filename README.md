@@ -37,7 +37,7 @@ afin de que tout le monde puisse l'utiliser
 :sleeping: :shower: :sound:
 Évitez de prendre des douches / bains si les conditions suivantes sont avérées :
 * le bruit de la douche est succeptible de perturber le sommeil d'un occupants des lieux
-* il est minuit passé
+* il est minuit passé (ou que la douche se termine après minuit)
 
 :haircut: :bathtubs:
 Les cheveux qui trainent dans la salle de bain (au sol comme dans le lavabo) doivent être jetés à la poubelle.
