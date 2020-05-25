@@ -78,3 +78,8 @@ Les invités sont les bienvenus (sauf cas exceptionnel).
 Les espace communs sont ouverts aux occupants des lieux.
 :sound: Par principe, prevenez les autres occupants des lieux
 et le voisinnage selon le nombre d'invités et l'heure de fin de la soirée.
+
+## Responsabilité
+
+* Chaque occupant a la responsabilité de s'acquitter de son loyer à échéance
+* Chaque occupant se doit d'avoir une assurance logement ou responsabilité civile
