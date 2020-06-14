@@ -26,6 +26,7 @@ Les occupants doivent être prévenus en cas de nourriture jetée.
 :bulb: les lumières sont éteintes si personne n'en a l'utilité.
 
 La poubelle se vide / change quand elle est pleine :pouch: :recycle:
+Qu'est ce qu'une poubelle pleine ? J'ai beau tasser, la poubelle ne se ferme pas :no_entry:
 
 ## La salle de bain
 
