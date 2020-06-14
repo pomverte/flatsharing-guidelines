@@ -66,7 +66,7 @@ On remplace tout ce qu'on consomme (avant d'arriver en pénurie) :
 
 :moneybag: Les frais sont notés et partagés entre les occupantss des lieux.
 
-Les occupants des lieux partagent un repas régulièrement :pizza: :beer:s
+Les occupants des lieux partagent un repas régulièrement (la fréquence varie en fonction des envies/besoins) :pizza: :beer:
 
 :outbox_tray:
 Les occupants des lieux se tiennent informés des absences prolongées (voyages, déplacements, etc ...)
